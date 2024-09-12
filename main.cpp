@@ -1,4 +1,4 @@
-// Calculating ocean levels
+// Calculating Distance per Tank of Gas
 #include <iostream>
 using namespace std;
 
