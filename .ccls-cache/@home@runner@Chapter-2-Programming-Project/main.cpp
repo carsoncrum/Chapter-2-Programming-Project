@@ -1,4 +1,4 @@
-// Calculating Distance per Tank of Gas
+// Calculating Energy Drink Consumption
 #include <iostream>
 using namespace std;
 
